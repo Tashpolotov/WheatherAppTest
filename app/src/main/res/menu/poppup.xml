@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/city_new_york"
+        android:title="Нью-Йорк" />
+    <item
+        android:id="@+id/city_london"
+        android:title="Лондон" />
+    <item
+        android:id="@+id/city_tokyo"
+        android:title="Токио" />
+    <item
+        android:id="@+id/city"
+        android:title="город"
+        />
+    <item
+        android:id="@+id/selected_city"
+        android:title="Выбрать другой город" />
+</menu>
